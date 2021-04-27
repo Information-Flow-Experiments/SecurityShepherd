@@ -70,6 +70,10 @@
       "kind": "SQLWrite"
     },
     {
+      "procedure": "java.sql.Connection.prepareStatement",
+      "kind": "SQLWrite"
+    },
+    {
       "procedure": "java.sql.PreparedStatement.executeQuery",
       "kind": "SQLWrite"
     },
